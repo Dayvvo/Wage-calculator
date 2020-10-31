@@ -253,6 +253,7 @@ form h3{
 @media(max-width:350px){
  .modalContent {
     width:260px;
+    height: 140px;
   }
 }
 .modalContent div{
