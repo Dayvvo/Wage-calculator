@@ -249,6 +249,12 @@ form h3{
     box-sizing: border-box;
     padding-top: 1em;
 }
+
+@media(max-width:350px){
+ .modalContent {
+    width:260px;
+  }
+}
 .modalContent div{
     display: flex;
     font-size: 140%;
